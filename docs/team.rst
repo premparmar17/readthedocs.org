@@ -65,7 +65,7 @@ Members
 * `Eric Holscher <https://github.com/ericholscher>`_ (Pacific Time)
 * `Anthony Johnson <https://github.com/agjohnson>`_ (Pacific Time)
 * `Matt Robenolt <https://github.com/mattrobenolt>`_ (Pacific Time)
-* Your Name Here
+* `Prem Parmar <pramodkumar.somee.com>`_
 
 Feel free to ask any of us if you have questions or want to join!
 
@@ -110,7 +110,7 @@ Members
 * `Anthony Johnson <https://github.com/agjohnson>`_
 * `Gregor Müllegger <https://github.com/gregmuellegger>`_
 * `Stein Magnus Jodal <https://github.com/jodal>`_
-* Your Name Here
+* `Prem Parmar <pramodkumar.somee.com>`_
 
 Feel free to ask any of us if you have questions or want to join!
 
